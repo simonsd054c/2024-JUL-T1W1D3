@@ -1,7 +1,11 @@
-p {
+img {
+    width: 300px;
+}
+
+.question {
     color: red;
 }
 
-img {
-    width: 300px;
+.answer {
+    color: blueviolet;
 }
